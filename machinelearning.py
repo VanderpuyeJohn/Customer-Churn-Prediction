@@ -42,7 +42,7 @@ if not st.session_state.logged_in:
         if username == VALID_USERNAME and password == VALID_PASSWORD:
             st.session_state.logged_in = True
             st.success("✅ Login successful! Loading dashboard...")
-            st.experimental_rerun()
+            st.rerun()
         else:
             st.error("❌ Invalid username or password.")
     st.stop()  # Prevent the rest of the app from loading
