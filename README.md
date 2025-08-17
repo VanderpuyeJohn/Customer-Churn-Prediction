@@ -15,3 +15,7 @@ This project covers the end-to-end churn prediction pipeline:
 4. **Prediction Interface** – interactive form for customer churn prediction
 
 The app provides insights into customer behavior and can be used by businesses to identify at-risk customers and improve retention strategies
+
+NB: pip install reuirerments.txt and use "streamlit run MachineLearning" to open the app
+
+
