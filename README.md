@@ -9,7 +9,7 @@ Password: machinelearning
 
 
 **Customer Churn Prediction App**
-A machine learning–powered web application built with Streamlit that predicts whether a customer is likely to churn based on their service usage, contract type, payment method, and demographic information etc.
+A machine learning–powered web application built with Streamlit that predicts whether a customer is likely to churn based on their service usage, contract type, payment method, and demographic information etc using Logistics Regression and Artificial Neural Network.
 
 This project covers the end-to-end churn prediction pipeline:
 1. **Data Preprocessing** – cleaning, encoding, scaling
