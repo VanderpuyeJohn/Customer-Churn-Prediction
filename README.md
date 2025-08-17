@@ -1,3 +1,6 @@
+**Download dataset**: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+
 **Login Credentials**
 
 Username: group1
